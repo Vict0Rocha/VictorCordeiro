@@ -1,7 +1,5 @@
 ## Hello World! Meu nome é Victor Hugo
 
-##
-
 <div align="center">
   <a href="https://github.com/Vict0Rocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vict0Rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
