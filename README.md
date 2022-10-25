@@ -1,4 +1,4 @@
-## Hello World! Sou Victor Cordeiro
+## Hello World! Sou o Victor Cordeiro
 
 <div align="center">
   <a href="https://github.com/Vict0Rocha">
