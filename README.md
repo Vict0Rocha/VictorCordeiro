@@ -1,4 +1,6 @@
-## Hello World! Sou o Victor Cordeiro
+## Hello, World! I'm Victor Cordeiro
+ I'm just a _**student**_, _**aiming**_ to be a _**Full-stack**_ future developer, here you can follow some of my programming languages.   
+ [My portfolio!](Vict0Rocha.github.io)
 
 <div align="center">
   <a href="https://github.com/Vict0Rocha">
@@ -13,9 +15,5 @@
   <img align="center" alt="html5" height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="html5" height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="html5" height="55em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-           -->
-          
-          
-          
-   
+           -->     
 </div>
