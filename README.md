@@ -1,6 +1,6 @@
-## Hello, World! I'm Victor Cordeiro
- I'm just a _**student**_, _**aiming**_ to be a _**Full-stack**_ future developer, here you can follow some of my programming languages.   
- [My portfolio!](https://vict0rocha.github.io/)
+## Hello, World! sou o Victor Cordeiro
+Apenas um estudante, com o objetivo de ser um desenvolvedor Full-stack, aqui você pode acompanhar algumas das minhas linguagens de programação.   
+ [Meu portifólio!](https://vict0rocha.github.io/)
  
 
 <div align="center">
